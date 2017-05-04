@@ -1,0 +1,4 @@
+markdown: redcarpet
+baseurl: /116A
+exclude: ['README.md']
+
